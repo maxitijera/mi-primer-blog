@@ -25,7 +25,7 @@ SECRET_KEY = '%k4x76!^+90@v1r5_%fy-2mi4sgzbmn0h*9&&cf11+4jlad3s$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['maxitijera.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
